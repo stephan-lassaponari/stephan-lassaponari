@@ -33,7 +33,7 @@ I'm a software developer with a passion for building robust systems and solving 
 <tr>
 <td width="50%">
 
-### [🐳 Inception](https://github.com/Stezsz/Inception)
+### [🐳 Inception](https://github.com/stephan-lassaponari/Inception)
 **Docker · Docker Compose · NGINX · MariaDB · WordPress**
 
 Multi-container infrastructure with custom Docker images, orchestrating a complete web stack with secure networking and persistent storage.
@@ -41,7 +41,7 @@ Multi-container infrastructure with custom Docker images, orchestrating a comple
 </td>
 <td width="50%">
 
-### [🌐 webserv](https://github.com/Stezsz/webserv)
+### [🌐 webserv](https://github.com/stephan-lassaponari/webserv)
 **C++ · HTTP/1.1 · Sockets · CGI**
 
 RFC-compliant HTTP server built from scratch, handling concurrent connections with poll(), virtual hosts, and CGI script execution.
@@ -51,7 +51,7 @@ RFC-compliant HTTP server built from scratch, handling concurrent connections wi
 <tr>
 <td width="50%">
 
-### [🎮 cub3d](https://github.com/Stezsz/cub3d)
+### [🎮 cub3d](https://github.com/stephan-lassaponari/cub3d)
 **C · MiniLibX · Raycasting**
 
 Wolfenstein 3D-inspired game engine implementing raycasting algorithms for real-time 3D rendering from 2D maps.
@@ -59,7 +59,7 @@ Wolfenstein 3D-inspired game engine implementing raycasting algorithms for real-
 </td>
 <td width="50%">
 
-### [🐚 minishell](https://github.com/Stezsz/minishell)
+### [🐚 minishell](https://github.com/stephan-lassaponari/minishell)
 **C · POSIX · Bash**
 
 Custom UNIX shell with lexer/parser, pipes, redirections, environment variables, and signal handling—replicating core bash functionality.
@@ -69,7 +69,7 @@ Custom UNIX shell with lexer/parser, pipes, redirections, environment variables,
 <tr>
 <td width="50%">
 
-### [🧠 Philosophers](https://github.com/Stezsz/Philosophers)
+### [🧠 Philosophers](https://github.com/stephan-lassaponari/Philosophers)
 **C · Threads · Mutexes**
 
 Dining philosophers problem solved with multithreading, demonstrating synchronization, deadlock prevention, and resource management.
@@ -77,7 +77,7 @@ Dining philosophers problem solved with multithreading, demonstrating synchroniz
 </td>
 <td width="50%">
 
-### [📦 CPP Modules 00–09](https://github.com/Stezsz/CPP05-09)
+### [📦 CPP Modules 00–09](https://github.com/stephan-lassaponari/CPP05-09)
 **C++ · OOP · STL · Templates**
 
 Comprehensive C++ journey covering OOP principles, inheritance, polymorphism, exceptions, templates, and the Standard Template Library.
@@ -120,18 +120,18 @@ Comprehensive C++ journey covering OOP principles, inheritance, polymorphism, ex
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stezsz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stezsz&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stephan-lassaponari&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stephan-lassaponari&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" height="180" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stezsz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-lassaponari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="160" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Stezsz&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=stephan-lassaponari&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
 </div>
 
 <br>
@@ -153,7 +153,7 @@ Comprehensive C++ journey covering OOP principles, inheritance, polymorphism, ex
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Stezsz/Stezsz/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/stephan-lassaponari/stephan-lassaponari/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
